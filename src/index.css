@@ -7,7 +7,7 @@
 
 body {
     min-height: 100vh;
-    background-image: url("./public/imagenes/fondo4.jpg");
+    background-image: url("/public/imagenes/fondo4.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
